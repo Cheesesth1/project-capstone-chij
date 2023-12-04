@@ -1,0 +1,23 @@
+.main_container {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+h1 {
+  margin: 0;
+  color: #333;
+}
+
+h2 {
+  margin-top: 5px;
+  color: #666;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transform: translate(-220%, -50%);
+}
