@@ -1,19 +1,16 @@
 import Header from "./pages/header";
 import Footer from "./pages/footer";
 import "./App.css";
-import Cart from "./pages/cart";
+import Api from "./api/Api";
 
 const App = () => {
   return (
     <div>
       <Header />
-      <div className="container">
-        <h3>Home</h3>
-        <h3>About</h3>
-        <h3>Contact</h3>
-      </div>
 
-      <Cart />
+      <div className="container"></div>
+      <Api />
+
       <div className="cont_account">
         <div className="form_container">
           <div className="form-btn">

@@ -1,0 +1,75 @@
+{
+  "trekking_products": {
+    "tents": [
+      {
+        "name": "Mountain Pro 2-Person Tent",
+        "price": 199.99
+      },
+
+      {
+        "name": "Alpine Expedition 4-Person Tent",
+        "price": 349.99
+      },
+      {
+        "name": "Ultralight Solo Backpacking Tent",
+        "price": 129.99
+      }
+    ],
+    "backpacks": [
+      {
+        "name": "Venture 40L Hiking Backpack",
+        "price": 89.99
+      },
+      {
+        "name": "Summit 60L Trekking Pack",
+        "price": 129.99
+      },
+      {
+        "name": "Alpine Pro 75L Expedition Backpack",
+        "price": 179.99
+      }
+    ],
+    "sleeping_bags": [
+      {
+        "name": "Arctic Down -15°F Mummy Bag",
+        "price": 249.99
+      },
+      {
+        "name": "Three-Season Ultralight Sleeping Bag",
+        "price": 159.99
+      },
+      {
+        "name": "Trekker's Hammock Sleeping System",
+        "price": 79.99
+      }
+    ],
+    "hiking_boots": [
+      {
+        "name": "Summit Series Waterproof Hiking Boots",
+        "price": 129.99
+      },
+      {
+        "name": "Alpine Explorer High-Altitude Boots",
+        "price": 199.99
+      },
+      {
+        "name": "Trailblazer Lightweight Hiking Shoes",
+        "price": 89.99
+      }
+    ],
+    "trekking_poles": [
+      {
+        "name": "Carbon Fiber Ultralight Trekking Poles",
+        "price": 59.99
+      },
+      {
+        "name": "Aluminum Adjustable Hiking Poles",
+        "price": 39.99
+      },
+      {
+        "name": "Shock-Absorbing Trail Poles",
+        "price": 49.99
+      }
+    ]
+  }
+}
